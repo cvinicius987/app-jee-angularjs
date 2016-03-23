@@ -4,7 +4,7 @@
 #Requisitos
 - JVM 1.8;
 - Container (Wildfly 8.x.x ou superior);
-- Apache Maven;
+- Apache Maven.
 
 #Tecnologias de Backend	(JEE 7):
 - JAX-RS (Processamento da camada de API REST da aplicação);
