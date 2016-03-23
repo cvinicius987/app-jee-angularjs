@@ -1,5 +1,5 @@
 
-#Aplicação de demostração utilizando Java EE e AngularJS.
+#Aplicação utilizando Java EE e AngularJS.
 
 #Requisitos
 - JVM 1.8;
