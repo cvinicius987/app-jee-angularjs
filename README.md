@@ -1,5 +1,5 @@
 
-#Aplicação utilizando Java EE e AngularJS.
+#Aplicação utilizando Java EE, H2 e AngularJS.
 
 #Requisitos
 - JVM 1.8;
